@@ -32,4 +32,4 @@ Make sure your working directory is the root directory of this repository. All i
 #### Single-tone
 
 Abstract
-![Abstract](/screenshots/abstract-merged.png)
+![Abstract](/screenshots/abstract-merged.jpg)
