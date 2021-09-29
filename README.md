@@ -35,24 +35,24 @@ Abstract
 ![Abstract](/screenshots/abstract-merged.jpg)
 
 Go Vols!
-![Abstract](/screenshots/govols-merged.jpg)
+![Go Vols!](/screenshots/govols-merged.jpg)
 
 Kirby
-![Abstract](/screenshots/kirby-merged.jpg)
+![Kirby](/screenshots/kirby-merged.jpg)
 
 sans.
-![Abstract](/screenshots/sans-merged.jpg)
+![sans.](/screenshots/sans-merged.jpg)
 
 #### Multi-tone
 
 Mario
-![Abstract](/screenshots/mario-merged.jpg)
+![Mario](/screenshots/mario-merged.jpg)
 
 Wario
-![Abstract](/screenshots/wario-merged.jpg)
+![Wario](/screenshots/wario-merged.jpg)
 
 Link
-![Abstract](/screenshots/Link-merged.jpg)
+![Link](/screenshots/link-merged.jpg)
 
 Big Boo
-![Abstract](/screenshots/boo-merged.jpg)
+![Big Boo](/screenshots/boo-merged.jpg)
