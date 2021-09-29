@@ -144,7 +144,7 @@ def makeGraph(rows, columns, imageMatrix, printSolution):
 
 
 if len(sys.argv) < 2 or len(sys.argv) > 3:
-    print("Usage: python3 image2picross.py [--solution | -s] image")
+    print("Usage: python3 image2picross.py [--solution | -s] image-file")
 
 printSolution = False
 if sys.argv[1] == "-s" or sys.argv[1] == "--solution":
