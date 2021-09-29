@@ -33,3 +33,26 @@ Make sure your working directory is the root directory of this repository. All i
 
 Abstract
 ![Abstract](/screenshots/abstract-merged.jpg)
+
+Go Vols!
+![Abstract](/screenshots/govols-merged.jpg)
+
+Kirby
+![Abstract](/screenshots/kirby-merged.jpg)
+
+sans.
+![Abstract](/screenshots/sans-merged.jpg)
+
+#### Multi-tone
+
+Mario
+![Abstract](/screenshots/mario-merged.jpg)
+
+Wario
+![Abstract](/screenshots/wario-merged.jpg)
+
+Link
+![Abstract](/screenshots/Link-merged.jpg)
+
+Big Boo
+![Abstract](/screenshots/boo-merged.jpg)
